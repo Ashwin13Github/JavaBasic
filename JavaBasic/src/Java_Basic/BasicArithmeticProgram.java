@@ -21,5 +21,4 @@ public class BasicArithmeticProgram {
 		float mod=a%b;
 		System.out.println(mod);
 	}
-
 }
